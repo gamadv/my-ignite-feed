@@ -2,7 +2,7 @@ import style from './styles.module.css'
 
 import igniteLogo from '../../assets/ignite-logo.svg'
 
-export default function Header() {
+export function Header() {
 
     return (
         <header className={style.header}>
