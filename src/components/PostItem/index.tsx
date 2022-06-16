@@ -18,16 +18,16 @@ type TContent = {
   content: string;
 };
 
-type TPostProps = {
+export interface IPostProps {
   author: TAuthor;
   publishedAt: Date;
   content: TContent[];
-};
+}
 
-export function PostItem(props: TPostProps) {
+export function PostItem(props: IPostProps) {
   const { author, content, publishedAt } = props;
 
-  const [comments, setComments] = useState(['Cool']);
+  const [comments, setComments] = useState([] as string[]);
   const [newCommentText, setNewCommentText] = useState('');
 
   const publishedFormated = format(publishedAt, "d 'de' LLL 'às' HH:mm'h'", {
