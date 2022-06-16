@@ -29,7 +29,7 @@
 
 The **My Ignite Feed** is an website to improve ReactJS and TypeScript knowledge.
 
-You can look on: link here
+You can look on: https://my-ignite-feed.vercel.app/
 
 Presently this app only works create and delete comments, rest is Mocked.
 
