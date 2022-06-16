@@ -80,8 +80,9 @@ Downloading dependencies:
 <p align=center> 
   <h6 align=center>💙 Made by</h6> 
   <h2 align=center>
-  <a href="https://www.linkedin.com/in/gama-leal">  Moacir Gama
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width=20>
+  <a href="https://www.linkedin.com/in/gama-leal">  
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width=65>
+    Moacir Gama
   </a>
   </h2>
 </p>
