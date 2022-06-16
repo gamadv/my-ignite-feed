@@ -3,17 +3,20 @@
   <img src="readme-assets/header.png" width=700 />
 </p>
 
-  <h1 align="center">  
+<h1 align="center">  
+    <a href="https://vercel.com/" target="_blank"  rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25">
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank"  rel="noopener noreferrer" >
-      <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555">
+        <img src="https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555" height="25">
     </a>
     <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank"  rel="noopener noreferrer">
-      <img src="https://badges.aleen42.com/src/react.svg">
+        <img src="https://badges.aleen42.com/src/react.svg" height="25">
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank"  rel="noopener noreferrer">
-      <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
+    <a href="https://code.visualstudio.com/" target="_blank"  rel="noopener noreferrer" height="25">
+        <img src="https://badges.aleen42.com/src/visual_studio_code.svg" height="25">
     </a>
-   </h1>
+</h1>
 
 <h6 align=center>
   <a href="#notebook-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,7 +33,6 @@ You can look on: link here
 
 Presently this app only works create and delete comments, rest is Mocked.
 
-
 <div align="center">
     <img src="readme-assets/desk-side.png" width="600">
 
@@ -46,7 +48,6 @@ Presently this app only works create and delete comments, rest is Mocked.
 - [x] <b>[Vite Js](https://vitejs.dev/):</b> <i>Project creation tool </i>
 - [x] <b>[Phosphor Icons](https://github.com/phosphor-icons/phosphor-react):</b> <i>Icon Pack </i>
 
-
 # :black_nib: Getting Started
 
 If you want to run this app on your dev workspace, look that:
@@ -55,7 +56,6 @@ You must have installed:
 
 1. **Node.js**. <i>[Here](https://nodejs.org/en/)</i>
 2. **GIT**. <i>[Here](https://git-scm.com)</i>
-
 
 Downloading dependencies:
 
