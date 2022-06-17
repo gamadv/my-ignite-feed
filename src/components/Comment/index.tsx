@@ -26,7 +26,7 @@ export function Comment(props: TCommentProps) {
 
   return (
     <div className={styles.comment}>
-      <Avatar hasBorder={false} src={profileImg} />
+      <Avatar hasBorder={false} src={profileImg} alt="Comment Profile Image"/>
       <div className={styles.commentBox}>
         <div className={styles.commentContent}>
           <header>

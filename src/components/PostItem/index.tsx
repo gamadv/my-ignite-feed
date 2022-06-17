@@ -80,7 +80,7 @@ export function PostItem(props: IPostProps) {
     <article className={styles.post}>
       <header>
         <div className={styles.author}>
-          <Avatar src={author.avatarUrl} />
+          <Avatar src={author.avatarUrl} alt="Post Owner Profile Image"/>
           <div className={styles.authorInfo}>
             <strong> {author.name} </strong>
             <span>{author.role}</span>
